@@ -1,0 +1,36 @@
+* {
+    color: white;
+    margin: 0;
+}
+
+header {
+    background-color: red;
+    text-align: center;
+}
+
+nav {
+    background-color: orange;
+    text-align: center;
+    padding: 16px 0;
+}
+nav > a {
+    font-size: 24px;
+}
+main {
+    background-color: green;
+    padding: 8px;
+}
+
+article {
+    margin-top: 8px;
+    background-color: blue;
+    padding: 24px;
+}
+article > ul,ol {
+    margin-top: 16px;
+}
+footer {
+    text-align: center;
+    background-color: darkviolet;
+    padding: 16px 0;
+}
